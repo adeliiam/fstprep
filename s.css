@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(179, 166, 166);
+}
+a{
+    position: relative;
+    padding: 15px 35px;
+    
+    background: rgb(112, 112, 186);
+    color: #fff;
+    border: 2px solid ;
+    border-radius: 30px;
+}
